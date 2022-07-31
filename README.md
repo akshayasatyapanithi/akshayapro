@@ -45,7 +45,7 @@ Every section of the MENU is neatly arranged with a photo of the dish, its price
 <h2>BOOK A TABLE</h2>
 Book a table section allows the customers to book the seats in advance.
 <br>
-It helps customers with the pre booking, so that the client can book a seat in advance and there will be no need to keep them wait. This increases the reputation of the restaurent drastically, and such features also can be added as one of the special offers given by the website.
+It helps customers with the pre booking, so that the client can book a seat in advance and there will be no need to keep them wait. This increases the reputation of the restaurent highly, and such features also can be added as one of the special offers given by the website.
 
 
 
